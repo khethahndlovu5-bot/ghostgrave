@@ -1,243 +1,382 @@
-# 🤖 Knight Bot
+# GHOSTGRAVE MD WhatsApp Bot
 
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+<p align="center">
+  <img src="assets/bot_image.jpg" alt="GHOSTGRAVE MD Bot" width="420" />
+</p>
 
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
-  </a> 
-</div> 
+<h2 align="center">GHOSTGRAVE MD</h2>
 
-<div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
-  </a> 
-</div>
+<p align="center">
+  A multi-device WhatsApp bot for group administration, moderation, media, stickers, downloads, games, AI tools and entertainment.
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/mruniquehacker?style=for-the-badge&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
-  <img src="https://img.shields.io/github/watchers/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
-</div>
-
----
-<div>
-  <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank">
-    <img src="assets/rapid.jpg" alt="RapidProxy" width="100%" />
-  </a>
-</div>
-
-<br>
-
-<div align="left">
-  <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank"><b>RapidProxy</b></a> delivers fast, reliable proxy infrastructure for large-scale data operations. With high concurrency, non-expiring traffic, and AI-powered CAPTCHA bypass, it ensures efficient, uninterrupted data collection—trusted by developers worldwide.<br><br>
-  90M+ Residential IPs • Smart Rotation • High Success Rate • Built for Scale<br><br>
-  <b>Special Offer:</b> <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank">Try it free</a> — Pricing from $0.65/GB with non-expiring traffic. Use code <b>RAPID10</b> for 10% off.
-</div>
-
-<br>
-
-<div align="left">
-  <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank">
-    <img src="https://img.shields.io/badge/Try now-28a745?style=for-the-badge" alt="Try now"/>
-  </a>
-</div>
-
-
-## 🚀 Steps to Deploy Bot
-
-### Step 1: Fork the Repository
-
-Click the button below to fork the Knight Bot repository to your GitHub account:
-
-<div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://github.com/khethahndlovu5-bot/ghostgrave">Repository</a> ·
+  <a href="https://github.com/khethahndlovu5-bot/ghostgrave/issues">Issues</a>
+</p>
 
 ---
 
-### Step 2: Get Pair Code
+## Owner Details
 
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
+| Field | Details |
+|---|---|
+| Bot name | **GHOSTGRAVE MD** |
+| Owner | **Khethah RSA** |
+| WhatsApp owner number | **+27 76 913 4196** |
+| GitHub account | [khethahndlovu5-bot](https://github.com/khethahndlovu5-bot) |
+| Repository | [khethahndlovu5-bot/ghostgrave](https://github.com/khethahndlovu5-bot/ghostgrave) |
+| Command prefix | `.` |
+| Command mode | Public |
+| Version | 3.0.8 |
 
-<div align="center">
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
-  </a>
-</div>
+> The owner number is written in international format without spaces inside the bot configuration: `27769134196`.
 
+## About GHOSTGRAVE MD
 
-### After getting creds.json file, upload it to session folder
+GHOSTGRAVE MD is an unofficial WhatsApp multi-device bot built with Node.js and Baileys. It provides tools for WhatsApp group owners and admins, including moderation, anti-link protection, welcome messages, member management, media tools, stickers, downloads, games, AI features and fun commands.
 
----
+This project is maintained for the GHOSTGRAVE MD bot by **Khethah RSA**. It is not affiliated with, sponsored by or endorsed by WhatsApp.
 
-### Step 3: Deploy Now
+## Main Features
 
-For further customization and setup guidance, click the button below:
+- Group welcome messages with the new member's full profile picture, name and group name.
+- Group moderation: warnings, mute, ban, kick, promote, demote and member management.
+- Anti-link, anti-tag, anti-bad-word and anti-bot protection.
+- Anti-media, anti-sticker and anti-group-status controls.
+- Stickers, animated text stickers, sticker cropping, background removal and image tools.
+- Music and media tools for YouTube, TikTok, Instagram, Facebook, Twitter and Spotify.
+- AI, anime, translation, text-to-speech and image generation tools.
+- Games, jokes, facts, trivia, truth-or-dare and other entertainment tools.
+- Owner controls for auto-read, auto-typing, auto-status, anti-call and session management.
 
-<div align="center">
-  <a href="https://youtu.be/-oz_u1iMgf8">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
-  </a>
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
-  </a>
-</div>
+## Installation
 
-### Deploy on VPS
+### Requirements
 
-<div align="center">
-  <a href="https://client.petrosky.io/aff.php?aff=394" target="_blank">
-    <img src="https://img.shields.io/badge/petrosky vps-0078E7?style=for-the-badge" alt="petrosky vps"/>
-  </a>
-</div>
+- Node.js 18 or newer (Node.js 20 is recommended).
+- Git.
+- FFmpeg for audio/video and some sticker functions.
+- A WhatsApp account used as the bot account.
 
-### Deploy on Below Panel
-<div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
-</a>
-</div>
+### Clone the repository
 
-### Join Us
+```bash
+git clone https://github.com/khethahndlovu5-bot/ghostgrave.git
+cd ghostgrave
+```
 
-<div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
-  </a>
-</div>
+### Install dependencies
 
----
+```bash
+npm install --legacy-peer-deps
+```
 
-## ⚙️ Features
+### Configure the owner
 
-- **Tag all group members** with the `.tagall` command
-- **Admin restricted usage** (Only group admins can use certain commands)
-- **Games** like Tic-Tac-Toe for interactive group engagement
-- **Text-to-Speech** with `.tts`
-- **Sticker creation** with `.sticker`
-- **Anti-link detection** for group safety
-- **Warn and manage group members** with admin control
+The current owner number is already configured in `settings.js`:
 
----
+```js
+ownerNumber: '27769134196'
+```
 
-## 📖 About
+If you deploy your own copy, update the number to your own WhatsApp number in international format without the `+` sign or spaces.
 
-The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+### Start the bot
 
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
+```bash
+npm start
+```
 
----
+The bot uses the `session/` directory for WhatsApp authentication. Keep the session private and never upload login credentials or pairing codes publicly.
 
-## 🛠️ Setup & Installation
+## Welcome Command
 
-### Prerequisites
+Only a group admin can configure the welcome message.
 
-- Node.js installed on your system
-- Git installed (for cloning the repository)
+```text
+.welcome on
+.welcome off
+.welcome set Your custom message
+```
 
-### Step-by-Step Setup
+Available variables for a custom welcome message:
 
-1. **Clone the repository:**
+- `{USER}` or `{user}` — mentions the new member.
+- `{group}` — inserts the group name.
+- `{description}` — inserts the group description.
 
-    ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
-    cd Knightbot-MD
-    ```
+The default welcome message includes the new member's full profile picture and the GHOSTGRAVE MD family welcome text.
 
-2. **Install the dependencies:**
+## Command Reference
 
-    ```bash
-    npm install
-    ```
+All commands use the dot prefix. Use `.help` or `.menu` inside WhatsApp to display the menu.
 
-3. **Run the bot:**
+### General
 
-    ```bash
-    node index.js
-    ```
+```text
+.help / .menu / .bot / .list
+.ping
+.alive
+.owner
+.prefix
+.time
+.country <country>
+.joke
+.quote
+.fact
+.weather <city>
+.news
+.tts <text>
+.lyrics <song>
+.8ball <question>
+.groupinfo
+.staff / .admins
+.vv
+.vv2
+.trt <text> <language>
+.ss <link>
+.jid
+.url
+```
 
-4. **Scan the QR code:**
+### Group administration
 
-    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp account with the bot.
+```text
+.welcome on|off|set <message>
+.goodbye on|off|set <message>
+.tag <message>
+.tagall
+.tagnotadmin
+.hidetag <message>
+.kick @user
+.ban @user
+.unban @user
+.warn @user
+.warnings @user
+.mute [minutes]
+.unmute
+.promote @user
+.demote @user
+.delete / .del
+.clear
+.resetlink
+.setgdesc <description>
+.setgname <name>
+.setgpp (reply to an image)
+.groupstatus [caption]
+.app
+.add <country-code-and-number>
+.getpp (reply to or mention a member)
+```
 
----
+### Group protection
 
-## ☕ Support Me
+```text
+.antilink on|off|delete|warn
+.antibadword on|off
+.antibot on|off|set|get
+.antitag on|off
+.antimedia on|off
+.antisticker on|off
+.antigroupstatus on|off
+.antispam
+.antifake
+.antiscam
+.mutemember
+```
 
-<div align="center">
+### Owner controls
 
-<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
-</a>
+```text
+.mode public|private
+.settings
+.setpp (reply to an image)
+.clearsession
+.cleartmp
+.update
+.antidelete on|off
+.autoreact on|off
+.autostatus on|off
+.autostatus react on|off
+.savestatus on|off
+.autotyping on|off
+.autoread on|off
+.anticall on|off
+.pmblocker on|off|status
+.pmblocker setmsg <message>
+.setmention (reply to a message)
+.mention on|off
+.sudo add|remove|list
+```
 
-</div>
+### Utility tools
 
-If you find this project helpful and want to support the developer, consider buying me a coffee! Your support helps maintain and improve this open-source project.
+```text
+.dns <domain>
+.ssl <domain>
+.speedtest
+.whois @member
+.note add <name> <text>
+.note list
+.note del <name>
+.rules
+.rules set <rules>
+.grouprules
+.active
+.topmembers
+.block (reply to a contact)
+.devicecheck
+.utility
+.utilitytool
+.converter <value>
+.concerter <value>
+.font
+.color
+.theme
+.logo <description>
+.textsticker <text>
+.pair <WhatsApp number>
+```
 
-<div align="center">
+### Image and sticker tools
 
-<img src="assets/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200">
+```text
+.sticker (reply to an image/video)
+.s / .sticker
+.simage (reply to a sticker)
+.blur (reply to an image)
+.removebg
+.remini
+.crop (reply to media)
+.take <packname>
+.attp <text>
+.tgsticker <Telegram sticker link>
+.stickertelegram <link>
+.stickercrop
+.emojimix <emoji>+<emoji>
+.meme
+.igs <Instagram link>
+.igsc <Instagram link>
+.textmaker commands: .metallic, .ice, .snow, .impressive, .matrix, .light, .neon, .devil, .purple, .thunder, .leaves, .1917, .arena, .hacker, .sand, .blackpink, .glitch, .fire
+```
 
-</div>
+### Downloads and media
 
----
+```text
+.play <song name>
+.song <song name>
+.spotify <query>
+.instagram <link>
+.facebook <link>
+.twitter <link>
+.tiktok <link>
+.video <song name>
+.ytmp3 <YouTube link>
+.ytmp4 <YouTube link>
+.gif <query>
+```
 
-## 📄 License
+### AI and anime
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
+```text
+.ai <question>
+.gpt <question>
+.gemini <question>
+.imagine <prompt>
+.flux <prompt>
+.sora <prompt>
+.anime / .animu
+```
 
----
+### Games and fun
 
-## 🙌 Contributions
+```text
+.tictactoe @user
+.hangman
+.guess <letter>
+.trivia
+.answer <answer>
+.truth
+.dare
+.compliment @user
+.insult @user
+.flirt
+.shayari
+.goodnight
+.roseday
+.character @user
+.wasted @user
+.ship @user
+.simp @user
+.stupid @user [text]
+```
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
+### Anime and reaction commands
 
----
+```text
+.nom
+.poke
+.cry
+.kiss
+.pat
+.hug
+.wink
+.facepalm
+```
 
-## 🌟 Show your support
+### Miscellaneous
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+```text
+.heart
+.horny
+.circle
+.lgbt
+.lolice
+.its-so-stupid
+.namecard
+.oogway
+.tweet
+.ytcomment
+.comrade
+.gay
+.glass
+.jail
+.passed
+.triggered
+```
 
+### GitHub and repository information
+
+```text
+.git
+.github
+.sc
+.script
+.repo
+```
+
+## Data and Privacy
+
+- Keep the `session/` folder private because it contains WhatsApp authentication data.
+- Do not publish pairing codes, QR codes, API keys, `.env` files or private credentials.
+- The bot is configured to use local JSON files in `data/` for group settings and lightweight storage.
+- Always review third-party APIs before using download or media commands.
+
+## Legal Notice
+
+GHOSTGRAVE MD is an independent and unofficial WhatsApp bot. It is not affiliated with WhatsApp or Meta. Use it responsibly and follow WhatsApp's Terms of Service and all applicable laws. Do not use the bot for spam, harassment, fraud, bulk messaging or other illegal activity. The owner and contributors are not responsible for account bans, misuse or damage caused by the software.
 
 ## Credits
 
-- [Professor](https://github.com/mruniquehacker)
-- [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
+- GHOSTGRAVE MD maintained by **Khethah RSA**.
+- [Baileys](https://github.com/WhiskeySockets/Baileys) for the WhatsApp Web API library.
+- Other open-source packages listed in `package.json`.
 
----
+## License
 
-## ⚠️ Important Warning
+This project is distributed under the license and notices included in the repository. Keep the relevant upstream notices and package licenses when modifying or redistributing the bot.
 
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
+## Support and Contributions
 
-## 📝 Legal
-
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
-
-### License
-This project is licensed under the MIT License. However, you must:
-- Use this software in compliance with all applicable laws and regulations
-- Include original license and copyright notices
-- Credit original authors
-- Not use for spam or malicious purposes
-
-## 📜 Copyright Notice
-
-Copyright (c) 2024 Professor. All rights reserved.
-
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
+For bugs or improvements, open an issue in the [GHOSTGRAVE MD repository](https://github.com/khethahndlovu5-bot/ghostgrave/issues). When reporting a problem, include the command, the error message and the Node.js version. Never include your WhatsApp session files or private credentials.
